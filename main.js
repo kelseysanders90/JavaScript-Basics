@@ -1,6 +1,6 @@
 const myForm = document.querySelector('#my-form');
 const name = document.querySelector('#name');
-const email= document.querySelector('#email');
+const email = document.querySelector('#email');
 const msg = document.querySelector('.msg');
 const userList = document.querySelector('#users');
 
